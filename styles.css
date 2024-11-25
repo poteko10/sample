@@ -1,0 +1,58 @@
+.all{
+    flex-direction: column;
+}
+.top{
+    background-color: #f00;
+    width: 400px;
+    height: 100px;
+}
+.middle{
+    display: flex;
+}
+.middle-right{
+    background-color: #0a5;
+    width: 150px;
+    height: 250px;
+}
+.middle-left{
+    background-color: #2563eb;
+    width: 250px;
+    height: 250px;
+}
+.bottom{
+    background-color: #fd0;
+    width: 400px;
+    height: 100px;
+}
+
+.white1{
+    background-color: white;
+    float: right;
+    margin: 20px 20px 0 0;
+    display: flex;
+    text-align: 100px;
+}
+.pu{
+    background-color: #6729a0;
+    width: 40px;
+    height: 40px;
+    margin: 10px 0;
+}
+.purple1,.purple3{
+    margin: 10px 10px;
+}
+
+.ore{
+    width: 140px;
+    height: 40px;
+    background-color: #ff863f;
+    margin-left: 40px;
+    border: 5px solid #ffffff;
+}
+.orenge1{
+    margin-top: 40px;
+}
+.orenge2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
