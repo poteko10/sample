@@ -41,13 +41,11 @@
     background-color: #6729a0;
     width: 40px;
     height: 40px;
-    margin: 10px 0;
+    margin: 10px;
 }
-.purple:first-child{
-    margin-left: 10px;
-}
-.purple:nth-child(3){
-    margin-right: 10px;
+.purple:nth-child(2){
+    margin-right: -10px;
+    margin-left: -10px;
 }
 .orange{
     width: 140px;
